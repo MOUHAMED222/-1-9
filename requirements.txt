@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+yt-dlp==2024.4.9
+aiofiles==23.2.1
